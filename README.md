@@ -4,7 +4,7 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/itzshukla/count.svg" />
 </p>
 
-[<img src="https://graph.org/file/ae522353ddffb830dd83e.jpg"/>](https://github.com/itzshukla)
+[<img src="https://graph.org/file/85aa4c9791d5de528f996.jpg"/>](https://github.com/itzshukla)
 
         
 <h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
