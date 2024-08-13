@@ -25,11 +25,11 @@
 
 # Some Projects
 
-<a href="https://github.com/itzshukla/ALSPAM.git">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzshukla&repo=ALSPAM&cache_seconds=86400&theme=gotham">
+<a href="https://github.com/itzshukla/STRANGER-OPUSERBOT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzshukla&repo=STRANGER-OPUSERBOT&cache_seconds=86400&theme=gotham">
 </a>
 
-<a href="https://github.com/PRADHAN/OXYMUSIC">
+<a href="https://github.com/itzshukla/STRANGER-MUSIC">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzshukla&repo=STRANGER-MUSIC&cache_seconds=86400&theme=gotham">
 </a>
 
