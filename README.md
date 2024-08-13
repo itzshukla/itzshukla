@@ -34,8 +34,8 @@
 </a>
 
 
-<a href="https://github.com/itzshukla/OXYGEN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzshukla&repo=managerbot&cache_seconds=86400&theme=gotham">
+<a href="https://github.com/itzshukla/STRANGER-OPUSERBOT2.0">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzshukla&repo=STRANGER-OPUSERBOT2.0&cache_seconds=86400&theme=gotham">
 </a>
 
 [<img src="https://github.com/itzshukla/itzshukla/blob/master/resources/hr.gif"/>](https://github.com/itzshukla)
