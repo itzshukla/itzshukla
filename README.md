@@ -33,6 +33,9 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzshukla&repo=STRANGER-MUSIC&cache_seconds=86400&theme=gotham">
 </a>
 
+<a href="https://github.com/itzshukla/STRANGER-SPAM-X">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzshukla&repo=STRANGER-SPAM-X&cache_seconds=86400&theme=gotham">
+</a>
 
 <a href="https://github.com/itzshukla/STRANGER-OPUSERBOT2.0">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzshukla&repo=STRANGER-OPUSERBOT2.0&cache_seconds=86400&theme=gotham">
