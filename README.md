@@ -58,7 +58,7 @@
 <h2 align="center">📫 Contact Me</h2>
 
 <p align="center">
-  <a href="mailto:itzshukla@gmail.com">
+  <a href="mailto:shashankstranger@gmail.com">
     <img src="https://img.shields.io/badge/Email-shashank@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://t.me/AmShashank">
