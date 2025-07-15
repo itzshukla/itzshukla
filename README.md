@@ -1,57 +1,69 @@
-
-<h3><img  style="align-item" :"center" src="https://telegra.ph/file/94e50ac8822f5172f06ff.jpg" width="90px" height="80%">
-   <img src="https://readme-typing-svg.herokuapp.com?color=FF4000&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐒𝐇𝐀𝐒𝐇𝐀𝐍𝐊+𝐒𝐇𝐔𝐊𝐋𝐀+🖤+🥀"></b></h3>
-
-<b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/itzshukla/count.svg" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75000&width=600&lines=Hey+There!+I'm+Shashank+Shukla;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%A4%93;Tech+Explorer+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
 
-[<img src="https://telegra.ph/file/23955bd1b4114fb73e72b.jpg"/>](https://github.com/itzshukla)
-<h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+<p align="center">
+  <img src="https://files.catbox.moe/1piqks.jpg" width="140px" height="140px" style="border-radius:50%;" />
+</p>
 
-[<img src="https://github-readme-stats.vercel.app/api?username=itzshukla&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/itzshukla)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzshukla&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/itzshukla)
+<h2 align="center">Hi, I'm Shashank Shukla 👋</h2>
 
-## My Stats
+<p align="center">
+  💻 Passionate Developer | 🌐 Open Source Enthusiast | 🚀 Automation Lover
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itzshukla&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzshukla&layout=compact&theme=midnight-purple&hide=Css)
+---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=itzshukla)
+<h2 align="center">📊 GitHub Stats</h2>
 
-# Some Projects
-<a href="https://github.com/itzshukla/STRANGER-OPUSERBOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzshukla&repo=STRANGER-OPUSERBOT&cache_seconds=86400&theme=gotham">
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itzshukla&show_icons=true&theme=radical&border_radius=20" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itzshukla&theme=radical&border_radius=20" width="48%" />
+</p>
 
-<a href="https://github.com/itzshukla/STRANGER-MUSIC">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzshukla&repo=STRANGER-MUSIC&cache_seconds=86400&theme=gotham">
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzshukla&layout=compact&theme=radical&hide_border=true" width="40%" />
+</p>
 
-<a href="https://github.com/itzshukla/STRANGER-SPAM-X">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzshukla&repo=STRANGER-SPAM-X&cache_seconds=86400&theme=gotham">
-</a>
+---
 
-<a href="https://github.com/itzshukla/STRANGER-OPUSERBOT2.0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itzshukla&repo=STRANGER-OPUSERBOT2.0&cache_seconds=86400&theme=gotham">
-</a>
+<h2 align="center">🤝 Support Me</h2>
 
-[<img src="https://github.com/itzshukla/itzshukla/blob/master/resources/hr.gif"/>](https://github.com/itzshukla)
+<p align="center">
+  <a href="https://t.me/MASTIWITHFRIENDSXD" target="_blank">
+    <img src="https://img.shields.io/badge/Support-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/itzshukla" target="_blank">
+    <img src="https://img.shields.io/badge/Follow-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com/itzshukla" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-Visit-orange?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+</p>
 
-<h1> <img src="https://te.legra.ph/file/1f5f400d5a16ae3a89343.jpg" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
+---
 
-[<img src="https://te.legra.ph/file/3f6810f790713b26fe826.jpg" width="60px">](https://tg://openmessage?user_id=6762113050) [<img src="https://te.legra.ph/file/2a7a17fc66a8f5fe785c3.jpg" width="60px">](https://github.com/itzshukla) 
+<h2 align="center">🛠️ Dev Tools I Use</h2>
 
-<details>
-<summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
-<a href="https://t.me/MASTIWITHFRIENDSXD"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
-</details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,git,linux,bash,mysql,docker" />
+</p>
 
-## Connect with Me
+---
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/itzshukla)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/MASTIWITHFRIENDSXD)
+<h2 align="center">📫 Contact Me</h2>
 
+<p align="center">
+  <a href="mailto:itzshukla@gmail.com">
+    <img src="https://img.shields.io/badge/Email-shashank@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/AmShashank">
+    <img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
+---
 
-
-                     
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75000&height=120&section=footer"/>
+</p>
