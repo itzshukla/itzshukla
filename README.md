@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/1piqks.jpg" width="140px" height="140px" style="border-radius:50%;" />
+  <img src="https://telegra.ph/file/94e50ac8822f5172f06ff.jpg" width="140px" height="140px" style="border-radius:50%;" />
 </p>
 
 <h2 align="center">Hi, I'm Shashank Shukla 👋</h2>
