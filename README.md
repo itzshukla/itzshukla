@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=220&section=header&text=Shashank%20Shukla%20👋&fontSize=45&fontColor=ffffff&desc=Full-Stack%20Developer%20|%20Tech%20Explorer%20|%20Open%20Source%20Lover&descSize=18&descAlign=50&descAlignY=70" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75000&width=600&lines=Hey+There!+I'm+Shashank+Shukla;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%A4%93;Tech+Explorer+%F0%9F%8C%8D" alt="Typing SVG" />
 </p>
 
