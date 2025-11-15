@@ -34,7 +34,7 @@
 <h2 align="center">🤝 Support Me</h2>
 
 <p align="center">
-  <a href="https://t.me/MASTIWITHFRIENDSXD" target="_blank">
+  <a href="https://t.me/ITSZSHUKLA" target="_blank">
     <img src="https://img.shields.io/badge/Support-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/itzshukla" target="_blank">
