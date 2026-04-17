@@ -40,6 +40,13 @@
 
 ---
 
+<h2 align="center">📈 Contribution Spectrum 📈</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzshukla&bg_color=1F2023&color=FF3300&line=00FFFB&point=FFFFFF&area=true&hide_border=true" width="100%" />
+</p>
+
+---
+
 <h2 align="center">🤝 Support Me</h2>
 
 <p align="center">
