@@ -31,6 +31,15 @@
 
 ---
 
+<div align="center">
+  <h2>🌌 Project Universe 🌌</h2>
+  <a href="https://github.com/itzshukla">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itzshukla&theme=radical" width="90%" />
+  </a>
+</div>
+
+---
+
 <h2 align="center">🤝 Support Me</h2>
 
 <p align="center">
